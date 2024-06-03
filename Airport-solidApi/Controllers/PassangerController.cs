@@ -1,6 +1,7 @@
 ﻿using AirPort_API.Entities;
 using Airport_solidApi.Models;
 using AutoMapper;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Solid.Core.Dto_s;
 using Solid.Core.Services;
@@ -11,6 +12,7 @@ namespace Airport_solidApi.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [Authorize]
     public class PassangerController : ControllerBase
     {
         private readonly IPassangerService _passangerService;

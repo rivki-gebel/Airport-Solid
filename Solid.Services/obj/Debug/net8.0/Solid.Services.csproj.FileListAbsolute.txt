@@ -38,8 +38,24 @@ C:\Users\user1\Desktop\תכנות\שנה ב\.net core\AirportApiSOLID\Solid.Serv
 C:\Users\user1\Desktop\תכנות\שנה ב\.net core\AirportApiSOLID\Solid.Services\obj\Debug\net8.0\Solid.Services.AssemblyInfoInputs.cache
 C:\Users\user1\Desktop\תכנות\שנה ב\.net core\AirportApiSOLID\Solid.Services\obj\Debug\net8.0\Solid.Services.AssemblyInfo.cs
 C:\Users\user1\Desktop\תכנות\שנה ב\.net core\AirportApiSOLID\Solid.Services\obj\Debug\net8.0\Solid.Services.csproj.CoreCompileInputs.cache
-C:\Users\user1\Desktop\תכנות\שנה ב\.net core\AirportApiSOLID\Solid.Services\obj\Debug\net8.0\Solid.Services.csproj.CopyComplete
 C:\Users\user1\Desktop\תכנות\שנה ב\.net core\AirportApiSOLID\Solid.Services\obj\Debug\net8.0\Solid.Services.dll
 C:\Users\user1\Desktop\תכנות\שנה ב\.net core\AirportApiSOLID\Solid.Services\obj\Debug\net8.0\refint\Solid.Services.dll
 C:\Users\user1\Desktop\תכנות\שנה ב\.net core\AirportApiSOLID\Solid.Services\obj\Debug\net8.0\Solid.Services.pdb
 C:\Users\user1\Desktop\תכנות\שנה ב\.net core\AirportApiSOLID\Solid.Services\obj\Debug\net8.0\ref\Solid.Services.dll
+C:\Users\user1\Downloads\Airport-Solid-master\Airport-Solid-master\Solid.Services\bin\Debug\net8.0\Solid.Services.deps.json
+C:\Users\user1\Downloads\Airport-Solid-master\Airport-Solid-master\Solid.Services\bin\Debug\net8.0\Solid.Services.dll
+C:\Users\user1\Downloads\Airport-Solid-master\Airport-Solid-master\Solid.Services\bin\Debug\net8.0\Solid.Services.pdb
+C:\Users\user1\Downloads\Airport-Solid-master\Airport-Solid-master\Solid.Services\bin\Debug\net8.0\Solid.Core.dll
+C:\Users\user1\Downloads\Airport-Solid-master\Airport-Solid-master\Solid.Services\bin\Debug\net8.0\Solid.Core.pdb
+C:\Users\user1\Downloads\Airport-Solid-master\Airport-Solid-master\Solid.Services\obj\Debug\net8.0\Solid.Services.csproj.AssemblyReference.cache
+C:\Users\user1\Downloads\Airport-Solid-master\Airport-Solid-master\Solid.Services\obj\Debug\net8.0\Solid.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Downloads\Airport-Solid-master\Airport-Solid-master\Solid.Services\obj\Debug\net8.0\Solid.Services.AssemblyInfoInputs.cache
+C:\Users\user1\Downloads\Airport-Solid-master\Airport-Solid-master\Solid.Services\obj\Debug\net8.0\Solid.Services.AssemblyInfo.cs
+C:\Users\user1\Downloads\Airport-Solid-master\Airport-Solid-master\Solid.Services\obj\Debug\net8.0\Solid.Services.csproj.CoreCompileInputs.cache
+C:\Users\user1\Downloads\Airport-Solid-master\Airport-Solid-master\Solid.Services\obj\Debug\net8.0\Solid.Se.D628CFBE.Up2Date
+C:\Users\user1\Downloads\Airport-Solid-master\Airport-Solid-master\Solid.Services\obj\Debug\net8.0\Solid.Services.dll
+C:\Users\user1\Downloads\Airport-Solid-master\Airport-Solid-master\Solid.Services\obj\Debug\net8.0\refint\Solid.Services.dll
+C:\Users\user1\Downloads\Airport-Solid-master\Airport-Solid-master\Solid.Services\obj\Debug\net8.0\Solid.Services.pdb
+C:\Users\user1\Downloads\Airport-Solid-master\Airport-Solid-master\Solid.Services\obj\Debug\net8.0\ref\Solid.Services.dll
+C:\Users\user1\Desktop\תכנות\שנה ב\.net core\AirportApiSOLID\Solid.Services\obj\Debug\net8.0\Solid.Services.sourcelink.json
+C:\Users\user1\Desktop\תכנות\שנה ב\.net core\AirportApiSOLID\Solid.Services\obj\Debug\net8.0\Solid.Se.D628CFBE.Up2Date

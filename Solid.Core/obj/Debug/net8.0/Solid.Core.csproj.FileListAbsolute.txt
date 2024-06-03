@@ -32,3 +32,16 @@ C:\Users\user1\Desktop\תכנות\שנה ב\.net core\AirportApiSOLID\Solid.Core
 C:\Users\user1\Desktop\תכנות\שנה ב\.net core\AirportApiSOLID\Solid.Core\obj\Debug\net8.0\refint\Solid.Core.dll
 C:\Users\user1\Desktop\תכנות\שנה ב\.net core\AirportApiSOLID\Solid.Core\obj\Debug\net8.0\Solid.Core.pdb
 C:\Users\user1\Desktop\תכנות\שנה ב\.net core\AirportApiSOLID\Solid.Core\obj\Debug\net8.0\ref\Solid.Core.dll
+C:\Users\user1\Downloads\Airport-Solid-master\Airport-Solid-master\Solid.Core\bin\Debug\net8.0\Solid.Core.deps.json
+C:\Users\user1\Downloads\Airport-Solid-master\Airport-Solid-master\Solid.Core\bin\Debug\net8.0\Solid.Core.dll
+C:\Users\user1\Downloads\Airport-Solid-master\Airport-Solid-master\Solid.Core\bin\Debug\net8.0\Solid.Core.pdb
+C:\Users\user1\Downloads\Airport-Solid-master\Airport-Solid-master\Solid.Core\obj\Debug\net8.0\Solid.Core.csproj.AssemblyReference.cache
+C:\Users\user1\Downloads\Airport-Solid-master\Airport-Solid-master\Solid.Core\obj\Debug\net8.0\Solid.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Downloads\Airport-Solid-master\Airport-Solid-master\Solid.Core\obj\Debug\net8.0\Solid.Core.AssemblyInfoInputs.cache
+C:\Users\user1\Downloads\Airport-Solid-master\Airport-Solid-master\Solid.Core\obj\Debug\net8.0\Solid.Core.AssemblyInfo.cs
+C:\Users\user1\Downloads\Airport-Solid-master\Airport-Solid-master\Solid.Core\obj\Debug\net8.0\Solid.Core.csproj.CoreCompileInputs.cache
+C:\Users\user1\Downloads\Airport-Solid-master\Airport-Solid-master\Solid.Core\obj\Debug\net8.0\Solid.Core.dll
+C:\Users\user1\Downloads\Airport-Solid-master\Airport-Solid-master\Solid.Core\obj\Debug\net8.0\refint\Solid.Core.dll
+C:\Users\user1\Downloads\Airport-Solid-master\Airport-Solid-master\Solid.Core\obj\Debug\net8.0\Solid.Core.pdb
+C:\Users\user1\Downloads\Airport-Solid-master\Airport-Solid-master\Solid.Core\obj\Debug\net8.0\ref\Solid.Core.dll
+C:\Users\user1\Desktop\תכנות\שנה ב\.net core\AirportApiSOLID\Solid.Core\obj\Debug\net8.0\Solid.Core.sourcelink.json

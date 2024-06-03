@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Airport-solidApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+22f7b3da3254d10440ce76663bdfa524ae701880")]
 [assembly: System.Reflection.AssemblyProductAttribute("Airport-solidApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Airport-solidApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

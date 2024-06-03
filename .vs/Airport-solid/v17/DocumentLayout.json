@@ -1,0 +1,508 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user1\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.net core\\AirportApiSOLID\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C00F196-C29D-47C3-A986-09FF3F3C6439}|Airport-solidApi\\Airport-solidApi.csproj|c:\\users\\user1\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.net core\\airportapisolid\\airport-solidapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4C00F196-C29D-47C3-A986-09FF3F3C6439}|Airport-solidApi\\Airport-solidApi.csproj|solutionrelative:airport-solidapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C00F196-C29D-47C3-A986-09FF3F3C6439}|Airport-solidApi\\Airport-solidApi.csproj|c:\\users\\user1\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.net core\\airportapisolid\\airport-solidapi\\controllers\\passangercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C00F196-C29D-47C3-A986-09FF3F3C6439}|Airport-solidApi\\Airport-solidApi.csproj|solutionrelative:airport-solidapi\\controllers\\passangercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C00F196-C29D-47C3-A986-09FF3F3C6439}|Airport-solidApi\\Airport-solidApi.csproj|c:\\users\\user1\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.net core\\airportapisolid\\airport-solidapi\\controllers\\flightcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C00F196-C29D-47C3-A986-09FF3F3C6439}|Airport-solidApi\\Airport-solidApi.csproj|solutionrelative:airport-solidapi\\controllers\\flightcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C00F196-C29D-47C3-A986-09FF3F3C6439}|Airport-solidApi\\Airport-solidApi.csproj|c:\\users\\user1\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.net core\\airportapisolid\\airport-solidapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C00F196-C29D-47C3-A986-09FF3F3C6439}|Airport-solidApi\\Airport-solidApi.csproj|solutionrelative:airport-solidapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C00F196-C29D-47C3-A986-09FF3F3C6439}|Airport-solidApi\\Airport-solidApi.csproj|c:\\users\\user1\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.net core\\airportapisolid\\airport-solidapi\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C00F196-C29D-47C3-A986-09FF3F3C6439}|Airport-solidApi\\Airport-solidApi.csproj|solutionrelative:airport-solidapi\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C00F196-C29D-47C3-A986-09FF3F3C6439}|Airport-solidApi\\Airport-solidApi.csproj|c:\\users\\user1\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.net core\\airportapisolid\\airport-solidapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C00F196-C29D-47C3-A986-09FF3F3C6439}|Airport-solidApi\\Airport-solidApi.csproj|solutionrelative:airport-solidapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46D083F4-9D76-46FB-B9BA-F415298ABFC0}|Solid.Data\\Solid.Data.csproj|c:\\users\\user1\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.net core\\airportapisolid\\solid.data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46D083F4-9D76-46FB-B9BA-F415298ABFC0}|Solid.Data\\Solid.Data.csproj|solutionrelative:solid.data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8415F7A2-C805-47D5-A0B7-6C796CBBAE9F}|Solid.Core\\Solid.Core.csproj|c:\\users\\user1\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.net core\\airportapisolid\\solid.core\\solid.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8415F7A2-C805-47D5-A0B7-6C796CBBAE9F}|Solid.Core\\Solid.Core.csproj|solutionrelative:solid.core\\solid.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E65A5A8-AB5F-4039-8F53-BC3EB55316BE}|Solid.Services\\Solid.Services.csproj|c:\\users\\user1\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.net core\\airportapisolid\\solid.services\\solid.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0E65A5A8-AB5F-4039-8F53-BC3EB55316BE}|Solid.Services\\Solid.Services.csproj|solutionrelative:solid.services\\solid.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46D083F4-9D76-46FB-B9BA-F415298ABFC0}|Solid.Data\\Solid.Data.csproj|c:\\users\\user1\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.net core\\airportapisolid\\solid.data\\solid.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{46D083F4-9D76-46FB-B9BA-F415298ABFC0}|Solid.Data\\Solid.Data.csproj|solutionrelative:solid.data\\solid.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E65A5A8-AB5F-4039-8F53-BC3EB55316BE}|Solid.Services\\Solid.Services.csproj|c:\\users\\user1\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.net core\\airportapisolid\\solid.services\\airplaneservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E65A5A8-AB5F-4039-8F53-BC3EB55316BE}|Solid.Services\\Solid.Services.csproj|solutionrelative:solid.services\\airplaneservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8415F7A2-C805-47D5-A0B7-6C796CBBAE9F}|Solid.Core\\Solid.Core.csproj|c:\\users\\user1\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.net core\\airportapisolid\\solid.core\\repositories\\iairplanerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8415F7A2-C805-47D5-A0B7-6C796CBBAE9F}|Solid.Core\\Solid.Core.csproj|solutionrelative:solid.core\\repositories\\iairplanerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C00F196-C29D-47C3-A986-09FF3F3C6439}|Airport-solidApi\\Airport-solidApi.csproj|c:\\users\\user1\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.net core\\airportapisolid\\airport-solidapi\\middlewares\\shabbatmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C00F196-C29D-47C3-A986-09FF3F3C6439}|Airport-solidApi\\Airport-solidApi.csproj|solutionrelative:airport-solidapi\\middlewares\\shabbatmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8415F7A2-C805-47D5-A0B7-6C796CBBAE9F}|Solid.Core\\Solid.Core.csproj|c:\\users\\user1\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.net core\\airportapisolid\\solid.core\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8415F7A2-C805-47D5-A0B7-6C796CBBAE9F}|Solid.Core\\Solid.Core.csproj|solutionrelative:solid.core\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8415F7A2-C805-47D5-A0B7-6C796CBBAE9F}|Solid.Core\\Solid.Core.csproj|c:\\users\\user1\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.net core\\airportapisolid\\solid.core\\dto\u0027s\\passangerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8415F7A2-C805-47D5-A0B7-6C796CBBAE9F}|Solid.Core\\Solid.Core.csproj|solutionrelative:solid.core\\dto\u0027s\\passangerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8415F7A2-C805-47D5-A0B7-6C796CBBAE9F}|Solid.Core\\Solid.Core.csproj|c:\\users\\user1\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.net core\\airportapisolid\\solid.core\\entities\\passanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8415F7A2-C805-47D5-A0B7-6C796CBBAE9F}|Solid.Core\\Solid.Core.csproj|solutionrelative:solid.core\\entities\\passanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8415F7A2-C805-47D5-A0B7-6C796CBBAE9F}|Solid.Core\\Solid.Core.csproj|c:\\users\\user1\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.net core\\airportapisolid\\solid.core\\dto\u0027s\\flighttopassangerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8415F7A2-C805-47D5-A0B7-6C796CBBAE9F}|Solid.Core\\Solid.Core.csproj|solutionrelative:solid.core\\dto\u0027s\\flighttopassangerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8415F7A2-C805-47D5-A0B7-6C796CBBAE9F}|Solid.Core\\Solid.Core.csproj|c:\\users\\user1\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.net core\\airportapisolid\\solid.core\\dto\u0027s\\flightdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8415F7A2-C805-47D5-A0B7-6C796CBBAE9F}|Solid.Core\\Solid.Core.csproj|solutionrelative:solid.core\\dto\u0027s\\flightdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8415F7A2-C805-47D5-A0B7-6C796CBBAE9F}|Solid.Core\\Solid.Core.csproj|c:\\users\\user1\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.net core\\airportapisolid\\solid.core\\entities\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8415F7A2-C805-47D5-A0B7-6C796CBBAE9F}|Solid.Core\\Solid.Core.csproj|solutionrelative:solid.core\\entities\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46D083F4-9D76-46FB-B9BA-F415298ABFC0}|Solid.Data\\Solid.Data.csproj|c:\\users\\user1\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.net core\\airportapisolid\\solid.data\\repositories\\flightrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46D083F4-9D76-46FB-B9BA-F415298ABFC0}|Solid.Data\\Solid.Data.csproj|solutionrelative:solid.data\\repositories\\flightrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C00F196-C29D-47C3-A986-09FF3F3C6439}|Airport-solidApi\\Airport-solidApi.csproj|c:\\users\\user1\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.net core\\airportapisolid\\airport-solidapi\\controllers\\airplanecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C00F196-C29D-47C3-A986-09FF3F3C6439}|Airport-solidApi\\Airport-solidApi.csproj|solutionrelative:airport-solidapi\\controllers\\airplanecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C00F196-C29D-47C3-A986-09FF3F3C6439}|Airport-solidApi\\Airport-solidApi.csproj|c:\\users\\user1\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.net core\\airportapisolid\\airport-solidapi\\models\\passangerpostputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C00F196-C29D-47C3-A986-09FF3F3C6439}|Airport-solidApi\\Airport-solidApi.csproj|solutionrelative:airport-solidapi\\models\\passangerpostputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C00F196-C29D-47C3-A986-09FF3F3C6439}|Airport-solidApi\\Airport-solidApi.csproj|c:\\users\\user1\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.net core\\airportapisolid\\airport-solidapi\\models\\flightpostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C00F196-C29D-47C3-A986-09FF3F3C6439}|Airport-solidApi\\Airport-solidApi.csproj|solutionrelative:airport-solidapi\\models\\flightpostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46D083F4-9D76-46FB-B9BA-F415298ABFC0}|Solid.Data\\Solid.Data.csproj|c:\\users\\user1\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.net core\\airportapisolid\\solid.data\\repositories\\passangerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46D083F4-9D76-46FB-B9BA-F415298ABFC0}|Solid.Data\\Solid.Data.csproj|solutionrelative:solid.data\\repositories\\passangerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user1\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.net core\\\u200F\u200FAirport-solid - 3\\Solid.Data\\Migrations\\20240130175640_Create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46D083F4-9D76-46FB-B9BA-F415298ABFC0}|Solid.Data\\Solid.Data.csproj|c:\\users\\user1\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.net core\\airportapisolid\\solid.data\\migrations\\20240130175730_create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46D083F4-9D76-46FB-B9BA-F415298ABFC0}|Solid.Data\\Solid.Data.csproj|solutionrelative:solid.data\\migrations\\20240130175730_create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 22,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:148:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.net core\\AirportApiSOLID\\Airport-solidApi\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "Airport-solidApi\\Models\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.net core\\AirportApiSOLID\\Airport-solidApi\\Models\\LoginModel.cs",
+              "RelativeToolTip": "Airport-solidApi\\Models\\LoginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T15:42:31.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.net core\\AirportApiSOLID\\Airport-solidApi\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Airport-solidApi\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.net core\\AirportApiSOLID\\Airport-solidApi\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Airport-solidApi\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwB4AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T15:40:03.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FlightDto.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.net core\\AirportApiSOLID\\Solid.Core\\Dto\u0027s\\FlightDto.cs",
+              "RelativeDocumentMoniker": "Solid.Core\\Dto\u0027s\\FlightDto.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.net core\\AirportApiSOLID\\Solid.Core\\Dto\u0027s\\FlightDto.cs",
+              "RelativeToolTip": "Solid.Core\\Dto\u0027s\\FlightDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T15:18:46.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.net core\\AirportApiSOLID\\Solid.Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "Solid.Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.net core\\AirportApiSOLID\\Solid.Data\\DataContext.cs",
+              "RelativeToolTip": "Solid.Data\\DataContext.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAswBUAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T15:18:46.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.net core\\AirportApiSOLID\\Airport-solidApi\\appsettings.json",
+              "RelativeDocumentMoniker": "Airport-solidApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.net core\\AirportApiSOLID\\Airport-solidApi\\appsettings.json",
+              "RelativeToolTip": "Airport-solidApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-03T15:29:29.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FlightController.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.net core\\AirportApiSOLID\\Airport-solidApi\\Controllers\\FlightController.cs",
+              "RelativeDocumentMoniker": "Airport-solidApi\\Controllers\\FlightController.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.net core\\AirportApiSOLID\\Airport-solidApi\\Controllers\\FlightController.cs",
+              "RelativeToolTip": "Airport-solidApi\\Controllers\\FlightController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAQwBsAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T15:18:46.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PassangerController.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.net core\\AirportApiSOLID\\Airport-solidApi\\Controllers\\PassangerController.cs",
+              "RelativeDocumentMoniker": "Airport-solidApi\\Controllers\\PassangerController.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.net core\\AirportApiSOLID\\Airport-solidApi\\Controllers\\PassangerController.cs",
+              "RelativeToolTip": "Airport-solidApi\\Controllers\\PassangerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T15:18:46.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ShabbatMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.net core\\AirportApiSOLID\\Airport-solidApi\\Middlewares\\ShabbatMiddleware.cs",
+              "RelativeDocumentMoniker": "Airport-solidApi\\Middlewares\\ShabbatMiddleware.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.net core\\AirportApiSOLID\\Airport-solidApi\\Middlewares\\ShabbatMiddleware.cs",
+              "RelativeToolTip": "Airport-solidApi\\Middlewares\\ShabbatMiddleware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T15:20:58.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IAirplaneRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.net core\\AirportApiSOLID\\Solid.Core\\Repositories\\IAirplaneRepository.cs",
+              "RelativeDocumentMoniker": "Solid.Core\\Repositories\\IAirplaneRepository.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.net core\\AirportApiSOLID\\Solid.Core\\Repositories\\IAirplaneRepository.cs",
+              "RelativeToolTip": "Solid.Core\\Repositories\\IAirplaneRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T15:27:48.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AirplaneService.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.net core\\AirportApiSOLID\\Solid.Services\\AirplaneService.cs",
+              "RelativeDocumentMoniker": "Solid.Services\\AirplaneService.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.net core\\AirportApiSOLID\\Solid.Services\\AirplaneService.cs",
+              "RelativeToolTip": "Solid.Services\\AirplaneService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T15:27:55.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FlightRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.net core\\AirportApiSOLID\\Solid.Data\\Repositories\\FlightRepository.cs",
+              "RelativeDocumentMoniker": "Solid.Data\\Repositories\\FlightRepository.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.net core\\AirportApiSOLID\\Solid.Data\\Repositories\\FlightRepository.cs",
+              "RelativeToolTip": "Solid.Data\\Repositories\\FlightRepository.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAlwCsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T15:18:46.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.net core\\AirportApiSOLID\\Airport-solidApi\\Program.cs",
+              "RelativeDocumentMoniker": "Airport-solidApi\\Program.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.net core\\AirportApiSOLID\\Airport-solidApi\\Program.cs",
+              "RelativeToolTip": "Airport-solidApi\\Program.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAowDMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T15:18:46.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Solid.Services.csproj",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.net core\\AirportApiSOLID\\Solid.Services\\Solid.Services.csproj",
+              "RelativeDocumentMoniker": "Solid.Services\\Solid.Services.csproj",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.net core\\AirportApiSOLID\\Solid.Services\\Solid.Services.csproj",
+              "RelativeToolTip": "Solid.Services\\Solid.Services.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-03T15:28:32.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Solid.Core.csproj",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.net core\\AirportApiSOLID\\Solid.Core\\Solid.Core.csproj",
+              "RelativeDocumentMoniker": "Solid.Core\\Solid.Core.csproj",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.net core\\AirportApiSOLID\\Solid.Core\\Solid.Core.csproj",
+              "RelativeToolTip": "Solid.Core\\Solid.Core.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-03T15:18:46.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Solid.Data.csproj",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.net core\\AirportApiSOLID\\Solid.Data\\Solid.Data.csproj",
+              "RelativeDocumentMoniker": "Solid.Data\\Solid.Data.csproj",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.net core\\AirportApiSOLID\\Solid.Data\\Solid.Data.csproj",
+              "RelativeToolTip": "Solid.Data\\Solid.Data.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-03T15:18:46.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.net core\\AirportApiSOLID\\Solid.Core\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Solid.Core\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.net core\\AirportApiSOLID\\Solid.Core\\MappingProfile.cs",
+              "RelativeToolTip": "Solid.Core\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T15:18:46.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Passanger.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.net core\\AirportApiSOLID\\Solid.Core\\Entities\\Passanger.cs",
+              "RelativeDocumentMoniker": "Solid.Core\\Entities\\Passanger.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.net core\\AirportApiSOLID\\Solid.Core\\Entities\\Passanger.cs",
+              "RelativeToolTip": "Solid.Core\\Entities\\Passanger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T15:18:46.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FlightToPassangerDto.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.net core\\AirportApiSOLID\\Solid.Core\\Dto\u0027s\\FlightToPassangerDto.cs",
+              "RelativeDocumentMoniker": "Solid.Core\\Dto\u0027s\\FlightToPassangerDto.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.net core\\AirportApiSOLID\\Solid.Core\\Dto\u0027s\\FlightToPassangerDto.cs",
+              "RelativeToolTip": "Solid.Core\\Dto\u0027s\\FlightToPassangerDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T15:18:46.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PassangerDto.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.net core\\AirportApiSOLID\\Solid.Core\\Dto\u0027s\\PassangerDto.cs",
+              "RelativeDocumentMoniker": "Solid.Core\\Dto\u0027s\\PassangerDto.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.net core\\AirportApiSOLID\\Solid.Core\\Dto\u0027s\\PassangerDto.cs",
+              "RelativeToolTip": "Solid.Core\\Dto\u0027s\\PassangerDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T15:18:46.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Flight.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.net core\\AirportApiSOLID\\Solid.Core\\Entities\\Flight.cs",
+              "RelativeDocumentMoniker": "Solid.Core\\Entities\\Flight.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.net core\\AirportApiSOLID\\Solid.Core\\Entities\\Flight.cs",
+              "RelativeToolTip": "Solid.Core\\Entities\\Flight.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAlwBMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T15:18:46.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AirplaneController.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.net core\\AirportApiSOLID\\Airport-solidApi\\Controllers\\AirplaneController.cs",
+              "RelativeDocumentMoniker": "Airport-solidApi\\Controllers\\AirplaneController.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.net core\\AirportApiSOLID\\Airport-solidApi\\Controllers\\AirplaneController.cs",
+              "RelativeToolTip": "Airport-solidApi\\Controllers\\AirplaneController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T15:18:46.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FlightPostModel.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.net core\\AirportApiSOLID\\Airport-solidApi\\Models\\FlightPostModel.cs",
+              "RelativeDocumentMoniker": "Airport-solidApi\\Models\\FlightPostModel.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.net core\\AirportApiSOLID\\Airport-solidApi\\Models\\FlightPostModel.cs",
+              "RelativeToolTip": "Airport-solidApi\\Models\\FlightPostModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T15:18:46.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PassangerPostPutModel.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.net core\\AirportApiSOLID\\Airport-solidApi\\Models\\PassangerPostPutModel.cs",
+              "RelativeDocumentMoniker": "Airport-solidApi\\Models\\PassangerPostPutModel.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.net core\\AirportApiSOLID\\Airport-solidApi\\Models\\PassangerPostPutModel.cs",
+              "RelativeToolTip": "Airport-solidApi\\Models\\PassangerPostPutModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T15:18:46.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PassangerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.net core\\AirportApiSOLID\\Solid.Data\\Repositories\\PassangerRepository.cs",
+              "RelativeDocumentMoniker": "Solid.Data\\Repositories\\PassangerRepository.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.net core\\AirportApiSOLID\\Solid.Data\\Repositories\\PassangerRepository.cs",
+              "RelativeToolTip": "Solid.Data\\Repositories\\PassangerRepository.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAgwDcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T15:18:46.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20240130175730_Create.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.net core\\AirportApiSOLID\\Solid.Data\\Migrations\\20240130175730_Create.cs",
+              "RelativeDocumentMoniker": "Solid.Data\\Migrations\\20240130175730_Create.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.net core\\AirportApiSOLID\\Solid.Data\\Migrations\\20240130175730_Create.cs",
+              "RelativeToolTip": "Solid.Data\\Migrations\\20240130175730_Create.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T15:18:46.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20240130175640_Create.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.net core\\\u200F\u200FAirport-solid - 3\\Solid.Data\\Migrations\\20240130175640_Create.cs",
+              "RelativeDocumentMoniker": "..\\\u200F\u200FAirport-solid - 3\\Solid.Data\\Migrations\\20240130175640_Create.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\.net core\\\u200F\u200FAirport-solid - 3\\Solid.Data\\Migrations\\20240130175640_Create.cs",
+              "RelativeToolTip": "..\\\u200F\u200FAirport-solid - 3\\Solid.Data\\Migrations\\20240130175640_Create.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-30T17:56:40.363Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
